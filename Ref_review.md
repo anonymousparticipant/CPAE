@@ -49,3 +49,14 @@ Wang S, McDermott M B A, Chauhan G, et al. **Mimic-extract: A data extraction, p
 **Ma L, Gao J, Wang Y, et al. Adacare: Explainable clinical health status representation learning via scale-adaptive feature extraction and recalibration**[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(01): 825-832.
 
 Tan Q, Ye M, Yang B, et al. **Data-gru: Dual-attention time-aware gated recurrent unit for irregular multivariate time series[C]**//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(01): 930-937.
+
+
+## Challenges on PhysioNet
+Silva, Ikaro, et al. **Predicting in-hospital mortality of icu patients: The physionet/computing in cardiology challenge 2012.** 2012 Computing in Cardiology. IEEE, 2012.
+
+Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000).**PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals.** Circulation [Online]. 101 (23), pp. e215–e220.
+
+Lee, M., Raffa, J., Ghassemi, M., Pollard, T., Kalanidhi, S., Badawi, O., Matthys, K., & Celi, L. A. (2020). **WiDS (Women in Data Science) Datathon 2020: ICU Mortality Prediction (version 1.0.0)**. PhysioNet. https://doi.org/10.13026/vc0e-th79.
+![image](https://user-images.githubusercontent.com/77622838/131368390-7f03c819-a61a-40fc-9398-26bc53fda698.png)
+
+
